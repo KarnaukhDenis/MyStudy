@@ -9,5 +9,7 @@ public class Main {
         m.Moichicks();
         k.Moichicks();
         t.Moichicks();
+
+        System.out.println(" f");
     }
 }
